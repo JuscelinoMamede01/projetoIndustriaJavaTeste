@@ -95,13 +95,7 @@ javac -encoding UTF-8 -d out $files
 java -cp out industria.Principal
 ```
 
-### Eclipse
 
-1. **File -> New -> Java Project** — nome sem hifens (ex: `testeProjetoIndustria`)
-2. Deletar `module-info.java` gerado automaticamente
-3. Criar pacote `industria` dentro de `src`
-4. Copiar `Pessoa.java`, `Funcionario.java` e `Principal.java` para o pacote
-5. Botao direito em `Principal.java` -> **Run As -> Java Application**
 
 ## Exemplo de Saida
 
